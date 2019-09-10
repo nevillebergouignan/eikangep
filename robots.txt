@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peghahhoav.isaacorme.com/sitemap.xml
